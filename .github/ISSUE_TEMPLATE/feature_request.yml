@@ -1,0 +1,25 @@
+name: Feature or capability proposal
+description: Suggest a practical AROSA capability or user workflow
+title: "[Proposal] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What user or developer problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: capability
+    attributes:
+      label: What capability or behavior do you propose?
+    validations:
+      required: true
+  - type: textarea
+    id: reuse
+    attributes:
+      label: Which applications or services could reuse it?
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Compatibility, security and performance considerations
