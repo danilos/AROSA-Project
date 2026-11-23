@@ -1,17 +1,12 @@
 # Contributing feedback to AROSA
 
+**AROSA**  
+*Written for AROS*
+
 Thank you for taking an interest in AROSA.
 
-This is a **public documentation and feedback repository**, not the AROSA source repository. At present, the most useful contributions are detailed technical questions, reproducible reports, independent use cases, concrete interface suggestions and documentation corrections.
+This repository hosts project information and public feedback. Contributions such as technical questions, reproducible bug reports, interface suggestions, application use cases and documentation corrections are welcome.
 
-Please:
-- Check whether an Issue already covers your topic.
-- Separate observed behavior from proposed explanations.
-- State relevant architecture, version and reproduction steps when reporting a bug.
-- Be specific about the capability, interface or application affected.
-- Avoid credentials, unpublished code, private logs, raw dumps, personal information and other sensitive details.
-- Keep discussion constructive and focused on software engineering.
+When reporting a problem, include the architecture and version, the steps to reproduce it, what happened, and what you expected. Please keep reports constructive and avoid sharing credentials, personal information, confidential material or sensitive diagnostic data.
 
-Issues are reviewed for possible inclusion in the private development backlog. Publication or acceptance of an issue does not imply a scheduled release or an immediate implementation commitment.
-
-This repository does not currently accept contributions to AROSA implementation code; any future source contribution process and licenses will be announced separately.
+Use the [public issue tracker](https://github.com/danilos/AROSA-Project/issues) to participate. AROSA's full implementation source is not distributed through this project repository. The separately published [AFileManager source](https://github.com/danilos/AFileManager) and [AROSA SDK](https://github.com/danilos/AROSA-SDK) have their own applicable licenses.
