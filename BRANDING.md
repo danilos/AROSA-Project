@@ -1,28 +1,12 @@
-# AROSA brand and release-line policy
-
-**Owner / original AROSA authorship: DaniloS.**
-
-## Preview and prerelease identity
-
-Use the following presentation for **all AROSA prereleases, historical SDK previews, demonstrations, public roadmaps, website hero sections and development announcements**:
+# AROSA — project identity
 
 **AROSA**  
 *Written for AROS*
 
-This is a factual acknowledgement of AROS as the underlying platform. It does **not** imply that AROSA is an official AROS distribution, is maintained by the AROS project, or has received AROS project endorsement.
+AROSA stands for **Application Runtime Operating Services Abstraction**. It is an independent application platform being developed for AROS by **DaniloS**.
 
-## Stable 1.0 positioning
+“Written for AROS” acknowledges the underlying operating system. It does **not** mean that AROSA is an official AROS distribution, is maintained by the AROS project, or has received AROS project endorsement.
 
-The official **AROSA 1.0** positioning statement is confidential until its launch. Do not reproduce or hint at that unreleased statement in public prerelease text, issue templates, release notes, marketing material or developer documentation.
+This is the identity used in current preview and prerelease documentation, examples, announcements and developer materials.
 
-The wording is a *reserved future positioning statement*, **not** a claim that AROSA 1.0 has been released or that prerelease capabilities are production-ready.
-
-## Applying the policy
-
-- **Public project website and repository README:** display the prerelease identity prominently and retain independent-project attribution.
-- **SDK documentation and release descriptions:** use the prerelease identity for all versions below 1.0; keep actual version, architecture, test status and license information accurate.
-- **Application repository descriptions:** identify prerelease AROSA association as “Written for AROS” without rewriting historical application source, licenses, commit history or embedded artifacts.
-- **Historical release assets and signed/checksummed binaries:** never modify existing immutable ZIPs merely to change branding. Update editable documentation and *future* release metadata instead.
-- **Going forward:** apply this policy to prerelease screenshots, templates, installer and application descriptions, and other user-facing branding when those files are next modified and validated.
-
-The project remains **AROSA — Application Runtime Operating Services Abstraction**, an independent effort by DaniloS, built for AROS.
+AROSA remains in active development. Features described in preview materials vary in implementation and test maturity. For the latest public information, see the [project overview](README.md) and [roadmap](docs/roadmap.html).
