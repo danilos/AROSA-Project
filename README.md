@@ -1,6 +1,10 @@
 # AROSA
 
-**Enterprise-class architecture at Amiga scale.**
+**Written for AROS**
+
+*Prerelease identity. The positioning statement “Enterprise-class architecture at Amiga scale” is reserved for the official AROSA 1.0 release.*
+
+See [branding and release-line policy](BRANDING.md).
 
 **AROSA** (Application Runtime Operating Services Abstraction) is an **independent application platform being developed for AROS** by **DaniloS**.
 
