@@ -13,7 +13,7 @@ This is a factual acknowledgement of AROS as the underlying platform. It does **
 
 ## Stable 1.0 positioning
 
-Reserve the phrase **“Enterprise-class architecture at Amiga scale”** for the official **AROSA 1.0** release. Do not use it as a current headline, slogan, release title, marketing tagline or product identity for any version before 1.0.
+The official **AROSA 1.0** positioning statement is confidential until its launch. Do not reproduce or hint at that unreleased statement in public prerelease text, issue templates, release notes, marketing material or developer documentation.
 
 The wording is a *reserved future positioning statement*, **not** a claim that AROSA 1.0 has been released or that prerelease capabilities are production-ready.
 
