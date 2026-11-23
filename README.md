@@ -14,7 +14,7 @@ AROSA brings reusable services, capability discovery and selection, providers, a
 
 ## Public project site
 
-This repository contains the **public project overview and community issue templates only**. It does **not** contain the AROSA development source, private architectural records, artifacts, internal traces or a license to use unpublished software.
+This repository contains the **public project overview, documentation and community issue templates**. A separately published [AROSA developer SDK](https://github.com/danilos/AROSA-SDK) and [AFileManager source](https://github.com/danilos/AFileManager) are available under their own licenses; the complete AROSA platform source is not included here.
 
 After GitHub Pages is enabled, see the project site for:
 
@@ -31,7 +31,7 @@ Its architectural approach has parallels with service-oriented and event-driven 
 
 ## Participation
 
-Use public Issues for specific, shareable bug reports, documentation improvements and feature suggestions. Engineering source and detailed internal diagnostics are tracked privately. Please do not post security-sensitive information or unpublished source in public reports.
+Use public Issues for specific, shareable bug reports, documentation improvements and feature suggestions. Please avoid including security-sensitive information, confidential materials or unpublished source in public reports.
 
 ## Independence and attribution
 
