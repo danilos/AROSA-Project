@@ -1,4 +1,6 @@
-# Security policy — public project documentation
+# AROSA — Security and responsible reporting
+
+*Written for AROS*
 
 This repository publishes AROSA's public presentation and receives community feedback. It is **not** the source repository or a supported production release.
 
