@@ -2,7 +2,7 @@
 
 **Written for AROS**
 
-*Prerelease identity. The positioning statement “Enterprise-class architecture at Amiga scale” is reserved for the official AROSA 1.0 release.*
+*Independent prerelease project for AROS.*
 
 See [branding and release-line policy](BRANDING.md).
 
