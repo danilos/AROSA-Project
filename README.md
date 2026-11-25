@@ -38,3 +38,8 @@ Use public Issues for specific, shareable bug reports, documentation improvement
 AROSA is an independent project by **DaniloS**. It is **not an official AROS distribution or an endorsed AROS component**. Existing AROS/Amiga technologies, code and artwork remain the property of their respective authors and are subject to their own licenses.
 
 This documentation-only repository does **not** grant a license to unpublished AROSA implementation code. A public-source license will be announced separately if and when publication occurs.
+
+
+## Community and Contribution Principles
+
+See the [Community and Contribution Principles](https://github.com/danilos#community-and-contribution-principles).
