@@ -43,3 +43,7 @@ This documentation-only repository does **not** grant a license to unpublished A
 ## Community and Contribution Principles
 
 See the [Community and Contribution Principles](https://github.com/danilos#community-and-contribution-principles).
+
+## Upstream relationship
+
+AROSA is based on mainline AROS and does not pursue an alternative operating-system kernel. Necessary downstream kernel corrections are documented and submitted to the AROS development team for evaluation. See the [Upstream Relationship and Contribution Policy](governance/UPSTREAM_POLICY.md).
